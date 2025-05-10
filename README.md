@@ -1,5 +1,5 @@
 ## Hi, my name is Bdeoddol
-## I'm a Computer Science Major studying at the University of Southern California
+I'm a Computer Science Major studying at the University of Southern California
 
 <!--
 **bdeoddol/bdeoddol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
