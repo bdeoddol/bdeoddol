@@ -1,4 +1,4 @@
-# Hi, my name is Bdeoddol
+# Hi, my name is Nhan
 <p>I'm a Computer Science Major studying at the University of Southern California</p>
 <p>Here you can find stuff that I've worked on ranging from projects (hopefully) to small tidbits of code of stuff I just wrote up.
 
