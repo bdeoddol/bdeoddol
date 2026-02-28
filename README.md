@@ -1,6 +1,8 @@
 # Hi, my name is Nhan
 <p>I'm a Computer Science Major studying at the University of Southern California</p>
-<p>Here you can find stuff that I've worked on ranging from projects (hopefully) to small tidbits of code of stuff I just wrote up.
+<p>I'm interested in front end web-development, web design, and computer vision models</p>
+<p>Here you can find stuff that I've worked on ranging from projects (hopefully) to small tidbits of code of stuff I just wrote up. </p>
+
 
 <!--
 **bdeoddol/bdeoddol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
